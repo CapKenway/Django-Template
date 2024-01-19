@@ -1,5 +1,3 @@
-# speed-management
-Management Software For Speed Industry
+# Django Template Project
 
-This Code Also Works with RFID System, Needs Adjustments
-Primarily Djagno
+Django templates with Tabler as UserDashboard with Bootstrap5
